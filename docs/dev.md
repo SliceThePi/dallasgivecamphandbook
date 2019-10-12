@@ -143,7 +143,7 @@ We will use a few technologies' during the weekend.  The project manager will ha
 - Don’t feel like it must be perfect. You may want to have separation of concerns, but given the amount of time to deliver, you may put business rules in the UI, etc. Delivering the feature technically "dirty" may be good enough. Of course, always strive to do what is right for the charity. A working solution is valued over an awesome solution that never is finished.
 
 ### Lesson learned from past GiveCamps
-- Use Relative URLs for links to images, documents and pages, as this will ensure that nothing is lost when the DNS transfer happens 
+- Use Relative URLs (i.e. `/pictures/logo.png` rather than `https://example.com/pictures/logo.png`) for links to images, documents and pages on your site, as this will ensure that nothing is lost when the DNS transfer happens 
 - Make sure Website available and domain temp-name set up. Complete DNS transfer **after** the charity has approved the new website. Be VERY careful when making DNS changes as they could impact other services registered to the charities domain, like email. When in doubt ask for assistance from the Tech Jedis if you have any questions.
 - Group requirements by the section (page) of the website that they belong on, this will make it easier to divide the work between the team members. Notify event staff if you feel your team is understaffed
 - Upfront training is available on the technology being used.  
