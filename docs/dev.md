@@ -131,7 +131,7 @@ We will use a few technologies' during the weekend.  The project manager will ha
 - Prior to the weekend GiveCamp Tech Jedi can install production for any team that needs Everleap & Wordpress. We highly recommend this and your PM can request this if desired. 
 - If you do receive an install code, please keep in mind this is only for charity use only.
 - If your team is using Everleap please include - Everleap verbiage "Hosting donated by Everleap", with a link back to Everleap.com. 
-- Please put in the site footer "Site Created by the volunteers of Dalas GiveCamp", with a link back to DallasGiveCamp.org.
+- Please put in the site footer "Site Created by the volunteers of Dallas GiveCamp", with a link back to DallasGiveCamp.org.
 
 ### Tips and Tricks for working with technology
 - Technology is much easier to deal with when you have a small, clearly defined objective. Make sure you have a plan then work your tasks. Defining user stories and acceptance criteria beforehand will help you deliver more successfully.
